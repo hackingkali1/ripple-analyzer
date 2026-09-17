@@ -102,7 +102,7 @@ The repository includes a `netlify.toml` preconfigured for Netlify deployment:
    - **Publish Directory**: `dist`
 4. Click **Deploy**.
 
-### Vercel
+Netlify Deployed link:-- https://ripple-analyzer.netlify.app/
 
 Ripple is fully compatible with Vercel out of the box with zero additional configuration needed.
 
